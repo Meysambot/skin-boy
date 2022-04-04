@@ -1,26 +1,32 @@
 [
   {
     "skin boy": "https://www.uplooder.net/img/image/33/864dbdb6f6677e7c8700a1dc4f53ee1c/body.png",
-    "skin boy link": "https://www.uplooder.net/img/image/92/2928f7f58df1890774e41d3e65028ee2/e92975749aa64ccc.png"
+    "skin boy link": "https://www.uplooder.net/img/image/92/2928f7f58df1890774e41d3e65028ee2/e92975749aa64ccc.png",
+    "number": "1"
   },
   {
     "skin boy": "https://www.uplooder.net/img/image/67/198a481f2a2acca02f43932c87e2729c/body-(2).png",
-    "skin boy link": "https://www.uplooder.net/img/image/92/9679ba3de8c4bce68bf9dd94f47be85f/a4941749250ccc36.png"
+    "skin boy link": "https://www.uplooder.net/img/image/92/9679ba3de8c4bce68bf9dd94f47be85f/a4941749250ccc36.png",
+    "number": "2"
   },
   {
     "skin boy": "https://www.uplooder.net/img/image/38/213cda5d74041f15ea864457cca0fe38/body-(1).png",
-    "skin boy link": "https://www.uplooder.net/img/image/16/5cb9a1033d7fed4ac00c074f2195499c/140ed9788c41700b.png"
+    "skin boy link": "https://www.uplooder.net/img/image/16/5cb9a1033d7fed4ac00c074f2195499c/140ed9788c41700b.png",
+    "number": "3"
   },
   {
     "skin boy": "https://www.uplooder.net/img/image/96/b3287042c75747b3c354d4521897ad9c/body-(5).png",
-    "skin boy link": "https://www.uplooder.net/img/image/18/50d8dd207e30c1793afc833d324d8d1f/aa79e01034dce38e.png"
+    "skin boy link": "https://www.uplooder.net/img/image/18/50d8dd207e30c1793afc833d324d8d1f/aa79e01034dce38e.png",
+    "number": "4"
   },
   {
     "skin boy": "https://www.uplooder.net/img/image/47/e7795cdea05995ea28e1b6597c2c1fee/body-(4).png",
-    "skin boy link": "https://www.uplooder.net/img/image/10/ac848f45e8de41885dac8807a6c965d1/0d73cf43e3167629.png"
+    "skin boy link": "https://www.uplooder.net/img/image/10/ac848f45e8de41885dac8807a6c965d1/0d73cf43e3167629.png",
+    "number": "5"
   },
   {
     "skin boy": "https://www.uplooder.net/img/image/73/f3b61d7324109abb9e2099e72b224076/body-(3).png",
-    "skin boy link": "https://www.uplooder.net/img/image/22/cef41a8a6db19c27b39e8a3cf4f43158/b99ae3d490c39753.png"
+    "skin boy link": "https://www.uplooder.net/img/image/22/cef41a8a6db19c27b39e8a3cf4f43158/b99ae3d490c39753.png",
+    "number": "6"
   }
 ]
